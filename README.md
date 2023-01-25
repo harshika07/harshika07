@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.tenor.com/727qo8TxQjcAAAAC/jujutsu-kaisen-gojo-satoru.gif" alt="gojo-gif" />
+<div align="center"><img src="https://github.com/harshika07/harshika07/blob/main/gojo.gif" alt="gif" />
 </div>
 <h1 align="center">Welcome to my Github Profile</h1>
 
