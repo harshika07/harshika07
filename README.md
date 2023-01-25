@@ -15,6 +15,8 @@
 <img align="left" alt="Vscode" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" />
 <img align="left" alt="Firebase" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" />
 
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshika07&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="harshika07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshika07&theme=nightowl&show_icons=true&locale=en" alt="harshika07" /></p>
