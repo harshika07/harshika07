@@ -14,6 +14,7 @@
 <img  alt="JavaScript" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img  alt="React" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />
 <img  alt="Figma" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" />
+<img  alt="AdobeXD" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/adobe-xd.svg" />
 <img  alt="Vscode" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" />
 <img  alt="Firebase" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" />
 </p>
