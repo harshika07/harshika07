@@ -10,13 +10,16 @@
 <p align="center">
 <img  alt="HTML5" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" />
 <img  alt="CSS3" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" />
+<img  alt="styledcomponents" height="30px" width="30px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 <img  alt="Bootstrap" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg" />
 <img  alt="JavaScript" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img  alt="React" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />
 <img  alt="Figma" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" />
 <img  alt="AdobeXD" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/adobe-xd.svg" />
+<img  alt="InVision" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/invision.svg" />
 <img  alt="Vscode" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" />
 <img  alt="Firebase" height="30px" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" />
+  
 </p>
 
 
